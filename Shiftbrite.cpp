@@ -1,6 +1,7 @@
 #include "Shiftbrite.hpp"
 #include "Arduino.h"
 
+
 Shiftbrite::Shiftbrite(){}
 Shiftbrite::Shiftbrite(int datapin, int latchpin, int enablepin, int clockpin){
     this->datapin=datapin;

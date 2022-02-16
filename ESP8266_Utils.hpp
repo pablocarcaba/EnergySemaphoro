@@ -18,6 +18,7 @@ void ConnectWiFiStation(bool useStaticIP = false)
   Serial.println(WiFi.localIP());
 }
 
+
 void ConnectWiFi_AccessPoint(bool useStaticIP = false)
 { 
   Serial.println("");

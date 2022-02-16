@@ -9,7 +9,6 @@
 #include "ESP8266_Utils_OTA.hpp"
 #include "Shiftbrite.hpp"
 
-
 // Wifi client
 WiFiClient wifiClient;
 // MQTT server
